@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="95eb720f2de055dd0d40219f9e846734be8868e0">
+        sha1="13e01747b0775ce6a7fe7204dfe2f8dcf60b59a9">
         <dex dex="C:\Users\Guillaume\Desktop\Gage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_384ed4657235df04738091098a000dd57e254ec9\classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8889443a1429a43bd2af1fd4692105db7b0328a0">
+        sha1="cf07b18d672fe6869fed235714447a3ef80fa680">
         <dex dex="C:\Users\Guillaume\Desktop\Gage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_281826cec0201ed62ae93ebc70b632c00c0f720b\classes.dex" />
     </item>
     <item

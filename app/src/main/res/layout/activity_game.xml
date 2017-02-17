@@ -11,7 +11,7 @@
     tools:context="com.guillaume_marquis.gage.GameActivity">
 
     <Button
-        android:text="Défi Ratté :("
+        android:text="Défi Raté :("
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button5"

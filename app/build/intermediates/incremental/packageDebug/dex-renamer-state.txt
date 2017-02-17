@@ -1,7 +1,0 @@
-#Fri Feb 17 14:50:14 CET 2017
-base.0=C\:\\Users\\Guillaume\\Desktop\\Gage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_384ed4657235df04738091098a000dd57e254ec9
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Guillaume\\Desktop\\Gage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_281826cec0201ed62ae93ebc70b632c00c0f720b\\classes.dex
-base.1=C\:\\Users\\Guillaume\\Desktop\\Gage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_281826cec0201ed62ae93ebc70b632c00c0f720b
-file.0=C\:\\Users\\Guillaume\\Desktop\\Gage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_384ed4657235df04738091098a000dd57e254ec9\\classes.dex
